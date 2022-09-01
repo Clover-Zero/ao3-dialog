@@ -18,7 +18,7 @@ You can change the class of the dialogue's paragraph (underlined) `dia left` int
   
  ## Which is Which?
   
- Confused on which **.dia** is which, and which **.left** is which? Here's a handy guide!
+ Confused on which **.dia** is which, and which **.left** is which in [basic CSS file](https://github.com/Clover-Zero/ao3-dialogue/blob/main/basic-css.css)? Here's a handy guide!
   
  **b**=**b**order (either borderless or bordered), **c**=**c**ustom color
   
