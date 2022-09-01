@@ -6,8 +6,6 @@ td {
   vertical-align: middle;
 }
 
-/*FIRST DATA, CONTAINS ICON*/
-/*May also contain NAME if you put it with icon in HTML*/
 td:nth-child(1) {
   max-width: 128px;
   min-width: 100px;
@@ -15,26 +13,25 @@ td:nth-child(1) {
   height: auto;
 }
 
-/*SECOND DATA, CONTAINS NAME AND SPEECH BUBBLE*/
 td:nth-child(2) {
   max-width: 950px;
   height: auto;
 }
 
-/*CHARACTER'S NAME*/
 .name {
-  font-size:large;
+  font-size: large;
   margin: 1px;
 }
 
-/*TEXT BOX*/
 .akbox {
   position: relative;
   display: inline-block;
-  border: #fff; /*border color*/
-  background: #000; /*background color*/
-  font-family: Roboto, Arial, sans-serif; /*font*/
-  color:#fff; /*font color*/
+  border: #ababab;
+  border-style: solid;
+  border-width: 1px;
+  background: #2b2b2b;
+  font-family: Arial, sans-serif;
+  color: #fff;
   border-radius: 0px;
   padding: 10px;
   margin: auto;
@@ -42,19 +39,17 @@ td:nth-child(2) {
   height: auto;
 }
 
-/*CENTER*/
 .center {
   text-align: center;
 }
 
-/*DESCRIPTION*/
 .akdesc {
   text-align: center;
   position: relative;
   display: inline-block;
-  background: #c7c7c7; /*background color*/
-  font-family: Courier, monospace; /*font*/
-  color:#000; /*font color*/
+  background: #c7c7c7;
+  font-family: Courier, monospace;
+  color: #000;
   border-radius: 0px;
   padding: 5px;
   margin: auto;
