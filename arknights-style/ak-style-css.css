@@ -32,7 +32,7 @@ td:nth-child(2) {
   display: inline-block;
   border: #fff; /*border color*/
   background: #000; /*background color*/
-  font-family: Roboto, sans-serif; /*font*/
+  font-family: Roboto, Arial, sans-serif; /*font*/
   color:#fff; /*font color*/
   border-radius: 0px;
   padding: 10px;
@@ -50,7 +50,7 @@ td:nth-child(2) {
   position: relative;
   display: inline-block;
   background: #c7c7c7; /*background color*/
-  font-family: Monospace; /*font*/
+  font-family: Courier New, monospace; /*font*/
   color:#000; /*font color*/
   border-radius: 0px;
   padding: 5px;
