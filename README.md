@@ -25,4 +25,4 @@ Live example [here](https://archiveofourown.org/works/24349453/chapters/58715851
 4. Open or create the AO3 work you want. Find **"Select Work Skin"** and find in the work skin you just created.
 5. Copy and paste [this code](https://github.com/Clover-Zero/ao3-dialogue/blob/main/basic-html.html) in your work.
 6. Edit it and add things appropiately. I think it's pretty straightforward.
-7. For more explanations and customization tips, read [here](https://github.com/Clover-Zero/ao3-dialogue/blob/main/Tips.md).
+7. For more explanations and customization tips, read [here](https://github.com/Clover-Zero/ao3-dialog/blob/main/TIPS.md).
