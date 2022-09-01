@@ -13,7 +13,7 @@ Live example [here](https://archiveofourown.org/works/24349453/chapters/58715851
 # Planned Features
 - Thought bubbles.
 - Background images.
-- Arknights-style text boxes.
+- Arknights-style text boxes. **IN PROGRESS**
 - Automation in Google Sheets.
 - Make a version where the CSS is in the HTML script so it can be used in Dreamwidth and other sites. This is most likely far better to be used with automation.
 
