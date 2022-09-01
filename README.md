@@ -7,6 +7,7 @@ Live example [here](https://archiveofourown.org/works/24349453/chapters/58715851
 # Features
 - Mobile responsive.
 - Text box/speech bubble.
+- Colored text box/speech bubble.
 - Character's name.
 
 # Planned Features
@@ -18,7 +19,7 @@ Live example [here](https://archiveofourown.org/works/24349453/chapters/58715851
 
 # How to Use
 1. Create a new work skin. You can read the basics [here](https://archiveofourown.org/faq/tutorial-creating-a-work-skin?language_id=en).
-2. Copy and paste [this code](https://github.com/Clover-Zero/ao3-dialogue/blob/main/basic-css.css) in CSS section and press submit.
-3. Open or create the AO3 work you want. Find **"Select Work Skin"** and find in the dropdown menu the workskin you just created.
+2. Copy and paste [this code](https://github.com/Clover-Zero/ao3-dialogue/blob/main/basic-css.css) in CSS section and submit it.
+3. Open or create the AO3 work you want. Find **"Select Work Skin"** and find in the work skin you just created.
 4. Copy and paste [this code](https://github.com/Clover-Zero/ao3-dialogue/blob/main/basic-html.html) in your work.
-5. Edit it and add things appropiately.
+5. Edit it and add things appropiately. I think it's pretty straightforward.
