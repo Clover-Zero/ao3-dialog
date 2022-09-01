@@ -27,6 +27,7 @@ td:nth-child(2) {
   margin: 1px;
 }
 
+/*TEXT BOX*/
 .akbox {
   position: relative;
   display: inline-block;
@@ -41,10 +42,12 @@ td:nth-child(2) {
   height: auto;
 }
 
+/*CENTER*/
 .center {
   text-align: center;
 }
 
+/*DESCRIPTION*/
 .akdesc {
   text-align: center;
   position: relative;
