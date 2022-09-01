@@ -13,7 +13,6 @@ Live example [here](https://archiveofourown.org/works/24349453/chapters/58715851
 # Planned Features
 - Thought bubbles.
 - Background images.
-- Arknights-style text boxes. (In progress)
 - Automation in Google Sheets.
 - Make a version where the CSS is in the HTML script so it can be used in Dreamwidth and other sites. This is most likely far better to be used with automation.
 
@@ -23,7 +22,7 @@ Live example [here](https://archiveofourown.org/works/24349453/chapters/58715851
 3. The code contains everything you might want, including some customization options. You can edit it as you wish.
 4. Submit the work skin. **Please note that the prefix `#workskin` will be automatically added.**
 4. Open or create the AO3 work you want. Find **"Select Work Skin"** and find in the work skin you just created.
-5. Copy and paste [this code](https://github.com/Clover-Zero/ao3-dialogue/blob/main/basic-html.html) in your work.
+5. Copy and paste [this code](https://github.com/Clover-Zero/ao3-dialogue/blob/main/basic-html.html) in your work (HTML mode).
 6. Edit it and add things appropiately. I think it's pretty straightforward.
 7. **Please note that AO3 tends to screw the formatting.** You can use external applications to edit and preview it first.
 8. For more explanations and customization tips, read [here](https://github.com/Clover-Zero/ao3-dialog/blob/main/TIPS.md).
