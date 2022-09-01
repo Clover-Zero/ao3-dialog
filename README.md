@@ -1,4 +1,4 @@
-A work sin based on gadaursan's [Fire Emblem Support Scripting](https://archiveofourown.org/works/8631214/chapters/21337784) work skin, a HTML and CSS to format screenplay and scripts (or dialogue-only/dialogue-heavy stories), but with some edits.
+A work sin based on gadaursan's [Fire Emblem Support Scripting](https://archiveofourown.org/works/8631214/chapters/21337784) work skin, a HTML and CSS to format screenplay and scripts (or dialog-only/dialog-heavy works), but with some edits.
 
 Live example [here](https://archiveofourown.org/works/24349453/chapters/58715851).
 
