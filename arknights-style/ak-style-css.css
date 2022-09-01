@@ -6,6 +6,8 @@ td {
   vertical-align: middle;
 }
 
+/*FIRST DATA, CONTAINS ICON*/
+/*May also contain NAME if you put it with icon in HTML*/
 td:nth-child(1) {
   max-width: 128px;
   min-width: 100px;
@@ -13,16 +15,26 @@ td:nth-child(1) {
   height: auto;
 }
 
+/*SECOND DATA, CONTAINS NAME AND SPEECH BUBBLE*/
 td:nth-child(2) {
   max-width: 950px;
   height: auto;
 }
 
+/*CHARACTER'S NAME*/
 .name {
-  font-size: large;
+  font-size:large;
   margin: 1px;
 }
 
+/*DESCRIPTION*/
+.desc {
+  text-align: center;
+  font-style: italic;
+  padding: 10px;
+}
+
+/*TEXT BOX*/
 .akbox {
   position: relative;
   display: inline-block;
@@ -43,6 +55,7 @@ td:nth-child(2) {
   text-align: center;
 }
 
+/*AK STYLE DESCRIPTION*/
 .akdesc {
   text-align: center;
   position: relative;
