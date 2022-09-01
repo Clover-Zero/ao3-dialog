@@ -27,4 +27,4 @@ You can change the class of the dialogue's paragraph (underlined) `dia left` int
  ## Customization
 - Change **max-width** and **min-width** in **td:nth-child(1).** This means changing the icon's size. If you wish to make the icons smaller or bigger in smaller screens (but smaller than **max-width**), change **min-width**. I recommend having **max-width** at 128px as it's the sweet spot (for me, personally).
 - Change the colors, such as border color, background color, and (font) color, as pointed by the comments in CSS.
-- Change the name of the classes (such as **.dia** ) to your liking.
+- Change the name of the classes (such as **.dia**) to your liking.
