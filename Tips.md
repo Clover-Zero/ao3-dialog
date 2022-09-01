@@ -1,3 +1,8 @@
+# HTML
+
+## Customization
+You can change the class of the dialogue's paragraph (underlined) `dia left` into something else, as long as that class is defined in CSS. For example, `dia2 left2`. For more, look at CSS section below. Keep in mind that the class in HTML and CSS must be the **same**.
+
 # CSS
 
 ## Explanations
