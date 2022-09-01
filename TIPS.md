@@ -1,3 +1,8 @@
+# General
+
+- I recommend having the original images/icons of all characters in the same size and aspect ratio.
+- It's okay for the icons to be larger than what I set in the CSS (128px) because it'll be automatically get resized to 128px. My icons are 300x300 px.
+
 # HTML
 
 ## Customization
