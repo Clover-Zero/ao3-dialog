@@ -1,0 +1,199 @@
+table {
+  display: flex;
+}
+
+td {
+  vertical-align: middle;
+}
+
+/*FIRST DATA, CONTAINS ICON*/
+/*May also contain NAME if you put it with icon in HTML*/
+td:nth-child(1) {
+  max-width: 128px;
+  min-width: 100px;
+  margin: auto;
+  height: auto;
+}
+
+/*SECOND DATA, CONTAINS NAME AND SPEECH BUBBLE*/
+td:nth-child(2) {
+  max-width: 950px;
+  height: auto;
+}
+
+/*CHARACTER'S NAME*/
+.name {
+  font-size:large;
+  margin: 1px;
+}
+
+/*DESCRIPTION*/
+.desc {
+  text-align: center;
+  font-style: italic;
+  padding: 10px;
+}
+
+/*DIALOGUES (DIA) AKA SPEECH BUBBLE BOXES*/
+
+/*Dia version 1*/
+/*Default (gray) border*/
+.dia {
+  position: relative;
+  display: inline-block;
+  border: 2px solid #b8b8b8; /*border color*/
+  border-radius: 10px;
+  padding: 10px;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/*Custom colored border*/
+.diacb {
+  position: relative;
+  display: inline-block;
+  border: 2px solid #fc0324; /*border color*/
+  border-radius: 10px;
+  padding: 10px;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/*Fully colored, default (gray), and borderless*/
+.diab {
+  position: relative;
+  display: inline-block;
+  background: #b8b8b8; /*background color*/
+  color:#fff; /*font color*/
+  border-radius: 10px;
+  padding: 10px;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/*Fully colored, custom color, and borderless*/
+.diac {
+  position: relative;
+  display: inline-block;
+  background: #fc0324; /*background color*/
+  color:#fff; /*font color*/
+  border-radius: 10px;
+  padding: 10px;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/*Dia version 2*/
+/*Gray (default) border and white background color*/
+.dia2 {
+  position: relative;
+  display: inline-block;
+  border: 2px solid #b8b8b8; /*border color*/
+  background: #fff; /*background color*/
+  border-radius: 10px;
+  padding: 10px;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/*Custom color border and background color*/
+.dia2c {
+  position: relative;
+  display: inline-block;
+  border: 2px solid #fc0324; /*border color*/
+  background: #ffebf9; /*background color*/
+  border-radius: 10px;
+  padding: 10px;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/*SPEECH BUBBLE TAILS*/
+
+/*Tails Version 1*/
+/*Default (gray)*/
+.left::after {
+  content: '';
+  border: 10px solid transparent;
+  border-right-color: #b8b8b8; /*border color*/
+  border-left: 0;
+  position: absolute;
+  left: -10px;
+  top: 50%;
+  margin-top: -10px;
+}
+
+/*Custom color*/
+.leftc::after {
+  content: '';
+  border: 10px solid transparent;
+  border-right-color: #fc0324; /*border color*/
+  border-left: 0;
+  position: absolute;
+  left: -10px;
+  top: 50%;
+  margin-top: -10px;
+}
+
+/*Tails version 2 (bordered)*/
+/*Default (gray)*/
+.left2::before {
+  content: '';
+  border-left: 10px solid transparent;
+  border-right: 10px solid #b8b8b8; /*border color*/
+  border-left: 0;
+  position: absolute;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  left: -10px;
+  top: 50%;
+  margin-top: -10px;
+}
+
+.left2::after {
+  width: 0px;
+  height: 0px;
+  content: '';
+  border: 10px solid transparent;
+  border-right: 10px solid #fff; /*border color*/
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  position: absolute;
+  left: -18px;
+  top: 50%;
+  margin-top: -10px;
+}
+
+/*Custom colors*/
+.left2c::before {
+  content: '';
+  border-left: 10px solid transparent;
+  border-right: 10px solid #fc0324; /*border color, the same as dia's border color*/
+  border-left: 0;
+  position: absolute;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  left: -10px;
+  top: 50%;
+  margin-top: -10px;
+}
+
+.left2c::after {
+  width: 0px;
+  height: 0px;
+  content: '';
+  border: 10px solid transparent;
+  border-right: 10px solid #ffebf9; /*border color, the same as dia's background color*/
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  position: absolute;
+  left: -18px;
+  top: 50%;
+  margin-top: -10px;
+}
