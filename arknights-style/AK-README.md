@@ -6,4 +6,4 @@
 4. Open or create the AO3 work you want. Find **"Select Work Skin"** and find in the work skin you just created.
 5. Copy and paste [this code](https://github.com/Clover-Zero/ao3-dialog/blob/main/arknights-style/ak-style-html.html) in your work (HTML mode).
 6. Edit it and add things appropiately. I think it's pretty straightforward.
-7. **Please note that AO3 tends to screw the formatting.** You can use external applications to edit and preview it first.
+7. **Please note that AO3 tends to screw the formatting.** AO3 also removes the comments. You can use external applications to edit and preview it first.
