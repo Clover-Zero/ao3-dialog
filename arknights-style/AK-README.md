@@ -1,3 +1,4 @@
+Live example [here](https://archiveofourown.org/works/41422914).
 # How to Use
 1. Create a new work skin. You can read the basics [here](https://archiveofourown.org/faq/tutorial-creating-a-work-skin?language_id=en).
 2. Copy and paste [this code](https://github.com/Clover-Zero/ao3-dialog/blob/main/arknights-style/ak-style-css.css) in CSS section.
