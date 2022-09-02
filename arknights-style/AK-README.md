@@ -1,4 +1,4 @@
-A work skin meant to mimic communication recorder in Integrated Strategies 2.
+A work skin meant to mimic the communication recorder in Integrated Strategies 2.
 
 Live example [here](https://archiveofourown.org/works/41422914).
 # How to Use
