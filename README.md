@@ -8,12 +8,14 @@ Live example [here](https://archiveofourown.org/works/24349453/chapters/58715851
 - Responsive, looks good on all devices.
 - Text box/speech bubble, colored and not.
 - Character's name.
+- Character's icon.
 
 # Planned Features
 - Thought bubbles.
 - Background images.
 - Automation in Google Sheets.
-- Make a version where the CSS is in the HTML script so it can be used in Dreamwidth and other sites. This is most likely far better to be used with automation.
+- A version where the character and speech bubble are on the left and right, alternating.
+- A version where it can be used in other websites, such as Dreamwidth. This is most likely far better to be used with automation.
 
 # How to Use
 1. Create a new work skin. You can read the basics [here](https://archiveofourown.org/faq/tutorial-creating-a-work-skin?language_id=en).
