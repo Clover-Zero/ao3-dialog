@@ -5,9 +5,8 @@ Live example [here](https://archiveofourown.org/works/24349453/chapters/58715851
 **Current version: Version 3**
 
 # Features
-- Mobile responsive.
-- Text box/speech bubble.
-- Colored text box/speech bubble.
+- Responsive, looks good on all devices.
+- Text box/speech bubble, colored and not.
 - Character's name.
 
 # Planned Features
