@@ -1,3 +1,5 @@
+A work skin meant to mimic communication recorder in Integrated Strategies 2.
+
 Live example [here](https://archiveofourown.org/works/41422914).
 # How to Use
 1. Create a new work skin. You can read the basics [here](https://archiveofourown.org/faq/tutorial-creating-a-work-skin?language_id=en).
