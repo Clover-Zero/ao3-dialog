@@ -6,6 +6,10 @@ td {
   vertical-align: middle;
 }
 
+.center {
+  text-align: center;
+}
+
 /*FIRST DATA, CONTAINS ICON*/
 /*May also contain NAME if you put it with icon in HTML*/
 td:nth-child(1) {
@@ -21,20 +25,14 @@ td:nth-child(2) {
   height: auto;
 }
 
-/*CHARACTER'S NAME*/
-.name {
-  font-size:large;
-  margin: 1px;
-}
-
-/*DESCRIPTION*/
+/*NORMAL DESCRIPTION*/
 .desc {
   text-align: center;
   font-style: italic;
   padding: 10px;
 }
 
-/*TEXT BOX*/
+/*AK STYLE TEXT BOX*/
 .akbox {
   position: relative;
   display: inline-block;
@@ -49,10 +47,6 @@ td:nth-child(2) {
   margin: auto;
   max-width: 100%;
   height: auto;
-}
-
-.center {
-  text-align: center;
 }
 
 /*AK STYLE DESCRIPTION*/
