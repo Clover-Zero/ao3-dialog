@@ -18,7 +18,7 @@ Live example [here](https://archiveofourown.org/works/24349453/chapters/58715851
 - A version where it can be used in other websites, such as Dreamwidth. This is most likely far better to be used with automation.
 
 # How to Use
-1. Create a new work skin. You can read the basics [here](https://archiveofourown.org/faq/tutorial-creating-a-work-skin?language_id=en).
+1. Create a new work skin. You can read the basics [here](https://archiveofourown.org/faq/tutorial-creating-a-work-skin?language_id=en) and/or [here](https://archiveofourown.org/admin_posts/1370?show_comments=true).
 2. Copy and paste [this CSS code](https://github.com/Clover-Zero/ao3-dialogue/blob/main/basic-css.css) in CSS section.
 3. The code contains everything you might want, including some customization options. You can edit it as you wish.
 4. Submit the work skin. **Please note that the prefix `#workskin` will be automatically added.**
