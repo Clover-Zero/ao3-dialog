@@ -15,7 +15,7 @@ Live example [here](https://archiveofourown.org/works/24349453/chapters/58715851
 - Background images.
 - Automation in Google Sheets.
 - A version where the character and speech bubble are on the left and right, alternating.
-- A version where it can be used in other websites, such as Dreamwidth. This is most likely far better to be used with automation.
+- A version where it can be used in other websites, such as Dreamwidth. This is most likely far better to be used with automation. It may also use Bootstrap depending on the website that supports it (such as Toyhouse).
 
 # How to Use
 1. Create a new work skin. You can read the basics [here](https://archiveofourown.org/faq/tutorial-creating-a-work-skin?language_id=en) and/or [here](https://archiveofourown.org/admin_posts/1370?show_comments=true).
