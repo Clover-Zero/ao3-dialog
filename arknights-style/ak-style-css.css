@@ -49,6 +49,29 @@ td:nth-child(2) {
   height: auto;
 }
 
+/*DARKER TEXT BOX*/
+.akbox2 {
+  position: relative;
+  display: inline-block;
+  border: #ababab;
+  border-style: solid;
+  border-width: 1px;
+  background: rgb(19,15,14);
+  font-family: Arial, sans-serif;
+  color: #fff;
+  border-radius: 0px;
+  padding: 10px;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/*BACKGROUND COLOR FOR ICONS*/
+.akimg {
+  background: #2b2b2b;
+  background: linear-gradient(0deg, rgb(70,70,70) 0%, rgb(29,29,29) 39%, rgb(13,13,13) 76%);
+  }
+
 /*AK STYLE DESCRIPTION*/
 .akdesc {
   text-align: center;
