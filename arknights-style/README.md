@@ -1,6 +1,8 @@
 A work skin meant to mimic the communication recorder in Integrated Strategies 2.
 
-Live example [here](https://archiveofourown.org/works/41422914).
+Live example [here](https://archiveofourown.org/works/41422914). Alternatively, CodePen: [version 1](https://codepen.io/clover-zero/pen/KKRPYLm)/[version 2](https://codepen.io/clover-zero/pen/QwbLwGj).
+
+
 # How to Use
 1. Create a new work skin. You can read the basics [here](https://archiveofourown.org/faq/tutorial-creating-a-work-skin?language_id=en) and/or [here](https://archiveofourown.org/admin_posts/1370?show_comments=true).
 2. Copy and paste [this CSS code](https://github.com/Clover-Zero/ao3-dialog/blob/main/arknights-style/ak-style-css.css) in CSS section.
